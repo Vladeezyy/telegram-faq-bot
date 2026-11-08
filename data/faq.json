@@ -1,0 +1,18 @@
+[
+  {"question": "What are your working hours?", "aliases": ["when are you open", "opening hours", "office hours"],
+   "answer": "We work Monday to Friday, 9:00–18:00 (GMT+5). Messages sent outside these hours are answered the next working day."},
+  {"question": "How can I pay?", "aliases": ["payment methods", "do you accept cards", "can I pay with crypto"],
+   "answer": "We accept Visa/Mastercard, bank transfer and USDT (TRC20). An invoice is sent after the order is confirmed."},
+  {"question": "How long does delivery take?", "aliases": ["delivery time", "shipping time", "when will my order arrive"],
+   "answer": "Delivery within the city takes 1–2 days, nationwide 3–5 days. You'll get a tracking number by message."},
+  {"question": "Can I return a product?", "aliases": ["refund policy", "return policy", "money back"],
+   "answer": "Yes. Unused products can be returned within 14 days. Write to us with your order number and we'll arrange pickup."},
+  {"question": "Where is your office?", "aliases": ["address", "location", "how to find you"],
+   "answer": "Our office is at 12 Amir Temur Avenue, Tashkent, 3rd floor. Landmark: next to the Central Bank."},
+  {"question": "Do you offer a warranty?", "aliases": ["guarantee", "warranty period"],
+   "answer": "All products come with a 12-month manufacturer warranty. Keep your receipt or order number."},
+  {"question": "How do I track my order?", "aliases": ["order status", "where is my parcel", "tracking"],
+   "answer": "Send your order number to this chat and a manager will reply with the current status, or use the tracking link from your confirmation message."},
+  {"question": "Do you ship internationally?", "aliases": ["international delivery", "ship abroad"],
+   "answer": "We currently ship within Uzbekistan and Kazakhstan. Other countries on request — contact a manager."}
+]
